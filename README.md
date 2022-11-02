@@ -5,7 +5,7 @@ A Telegram bot that add a dynamic caption to musics
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samadii/MusicChannelManager)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kolgeli/MusicChannelManager)
 
 
 
@@ -18,4 +18,4 @@ It manage your music channel. With just adding this bot to your channel, it auto
 🎼 Genre: <genre>
 ```
 
-<img src="https://github.com/samadii/MusicChannelManager/blob/main/demo.png" width="450" />
+<img src="https://github.com/Kolgeli/MusicChannelManager/blob/main/demo.png" width="450" />
